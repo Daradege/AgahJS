@@ -4,8 +4,8 @@
 
 A lightweight, elegant JavaScript notification library that slides gracefully into the bottom-left corner of your website. Perfect for when you need to tell your users something important without being obnoxious about it.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Size](https://img.shields.io/badge/size-5KB-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
+![Size](https://img.shields.io/badge/size-7KB-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![RTL Support](https://img.shields.io/badge/RTL-supported-orange.svg)
 
