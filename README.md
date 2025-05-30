@@ -35,7 +35,7 @@ Because nobody likes ugly, jarring notifications that feel like they were design
 ### Quick Install
 Just drop this into your HTML:
 ```html
-<script src="https://raw.githubusercontent.com/Daradege/AgahJS/refs/heads/main/agah.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Daradege/AgahJS@refs/heads/main/agah.js"></script>
 ```
 
 Or copy-paste the code directly. We don't judge.
