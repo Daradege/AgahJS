@@ -37,6 +37,10 @@ Just drop this into your HTML:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/Daradege/AgahJS@refs/heads/main/agah.js"></script>
 ```
+or
+```html
+<script src="https://cdn.jsdelivr.net/gh/Daradege/AgahJS@refs/heads/main/agah.min.js"></script>
+```
 
 Or copy-paste the code directly. We don't judge.
 
